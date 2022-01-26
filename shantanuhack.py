@@ -35,7 +35,7 @@ def hero():
         time.sleep(5)
         done = True
 
-   def chalo1():
+   
         done = False
         #here is the animation
         def animate():
