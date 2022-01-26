@@ -47,7 +47,7 @@ def hero():
                 time.sleep(0.1)
             sys.stdout.write('\rDone!     ')
 
-   t = threading.Thread(target=animate)
+   
         t.start()
 
        #long process here
